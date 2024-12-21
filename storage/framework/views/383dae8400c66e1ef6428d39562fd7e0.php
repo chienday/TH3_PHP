@@ -1,0 +1,1 @@
+<?php /**PATH C:\laragon\www\mytask\resources\views/welcome.blade.php ENDPATH**/ ?>
